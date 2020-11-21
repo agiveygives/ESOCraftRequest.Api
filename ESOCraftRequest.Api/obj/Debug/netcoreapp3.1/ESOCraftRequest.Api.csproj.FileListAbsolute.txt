@@ -1,0 +1,10 @@
+D:\Projects\ESO Stuff\Craft Request\ESOCraftRequest.Api\ESOCraftRequest.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\ESO Stuff\Craft Request\ESOCraftRequest.Api\ESOCraftRequest.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\ESO Stuff\Craft Request\ESOCraftRequest.Api\ESOCraftRequest.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\ESO Stuff\Craft Request\ESOCraftRequest.Api\ESOCraftRequest.Api\bin\Debug\netcoreapp3.1\ESOCraftRequest.Api.exe
+D:\Projects\ESO Stuff\Craft Request\ESOCraftRequest.Api\ESOCraftRequest.Api\obj\Debug\netcoreapp3.1\ESOCraftRequest.Api.csprojAssemblyReference.cache
+D:\Projects\ESO Stuff\Craft Request\ESOCraftRequest.Api\ESOCraftRequest.Api\obj\Debug\netcoreapp3.1\ESOCraftRequest.Api.AssemblyInfoInputs.cache
+D:\Projects\ESO Stuff\Craft Request\ESOCraftRequest.Api\ESOCraftRequest.Api\obj\Debug\netcoreapp3.1\ESOCraftRequest.Api.AssemblyInfo.cs
+D:\Projects\ESO Stuff\Craft Request\ESOCraftRequest.Api\ESOCraftRequest.Api\obj\Debug\netcoreapp3.1\ESOCraftRequest.Api.RazorTargetAssemblyInfo.cache
+D:\Projects\ESO Stuff\Craft Request\ESOCraftRequest.Api\ESOCraftRequest.Api\obj\Debug\netcoreapp3.1\staticwebassets\ESOCraftRequest.Api.StaticWebAssets.Manifest.cache
+D:\Projects\ESO Stuff\Craft Request\ESOCraftRequest.Api\ESOCraftRequest.Api\obj\Debug\netcoreapp3.1\staticwebassets\ESOCraftRequest.Api.StaticWebAssets.xml

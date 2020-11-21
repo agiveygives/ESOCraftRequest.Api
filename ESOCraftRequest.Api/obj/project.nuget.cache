@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "j7tJsf5tTzI1bBtu8djDKGS8+fvhyplX8rfIFwvUbl/bG24Ac8G2V5mC2u7D2DrE+y2CLn8LfUnHmi03FrJ5oA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\ESO Stuff\\Craft Request\\ESOCraftRequest.Api\\ESOCraftRequest.Api\\ESOCraftRequest.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KingAndy\\.nuget\\packages\\firebaseadmin\\2.0.0\\firebaseadmin.2.0.0.nupkg.sha512",
+    "C:\\Users\\KingAndy\\.nuget\\packages\\google.api.gax\\3.2.0\\google.api.gax.3.2.0.nupkg.sha512",
+    "C:\\Users\\KingAndy\\.nuget\\packages\\google.api.gax.rest\\3.2.0\\google.api.gax.rest.3.2.0.nupkg.sha512",
+    "C:\\Users\\KingAndy\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\KingAndy\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\KingAndy\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\KingAndy\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\KingAndy\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\KingAndy\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

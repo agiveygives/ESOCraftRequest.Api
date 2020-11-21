@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESOCraftRequest.Api", "ESOCraftRequest.Api\ESOCraftRequest.Api.csproj", "{CC38F0EF-61B5-4F55-A71A-9407554FC96F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC38F0EF-61B5-4F55-A71A-9407554FC96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC38F0EF-61B5-4F55-A71A-9407554FC96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC38F0EF-61B5-4F55-A71A-9407554FC96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC38F0EF-61B5-4F55-A71A-9407554FC96F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FC6C357-AE80-4226-A785-B0A97DA62B55}
+	EndGlobalSection
+EndGlobal
